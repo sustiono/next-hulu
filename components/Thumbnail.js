@@ -21,7 +21,7 @@ const Thumbnail = forwardRef(({ result }, ref) => {
         <p className='truncate max-w-md'>{result.overview}</p>
 
         <h2 className='mt-1 text-2xl text-white transition-all duration-100 ease-in-out group-hover:font-bold'>
-          {result.title || result.orignal_name}
+          {result.title || result.orignal_name || result.name}
         </h2>
 
         <p className='flex items-center opacity-0 group-hover:opacity-100'>

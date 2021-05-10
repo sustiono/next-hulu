@@ -1,6 +1,6 @@
 # NEXT HULU
 
-Next Hulu is a Hulu App clone application that is created using Next.js and Tailwind. Learning by doing from youtube channel [Sonny Sangha](https://www.youtube.com/user/ssangha32)
+Next Hulu is a Hulu App clone application that is created using Next.js, Tailwind, and TMDb API. Learning by doing from youtube channel [Sonny Sangha](https://www.youtube.com/user/ssangha32)
 
 ## Run app in development server
 
